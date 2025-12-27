@@ -3,68 +3,68 @@ import React from 'react'
 const movies = () => {
     let moviesName = [
         {
-            image: '/imgs/movie1.jpg',
+            image: 'public/imgs/movie1.jpg',
             name: "dora"
         },
         {
-            image: '/imgs/movie2.jpg',
+            image: 'public/imgs/movie2.jpg',
             name: "superman"
         },
         {
-            image: '/imgs/movie3.jpg',
+            image: 'public/imgs/movie3.jpg',
             name: "batman"
         },
         {
-            image: '/imgs/movie4.jpg',
+            image: 'public/imgs/movie4.jpg',
             name: "game of thrones"
         },
         {
-            image: '/imgs/movie5.jpg',
+            image: 'public/imgs/movie5.jpg',
             name: "the boys"
         },
         {
-            image: '/imgs/movie6.jpg',
+            image: 'public/imgs/movie6.jpg',
             name: "braking bad"
         },
         {
-            image: '/imgs/movie7.jpg',
+            image: 'public/imgs/movie7.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie8.jpg',
+            image: 'public/imgs/movie8.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie9.jpg',
+            image: 'public/imgs/movie9.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie10.jpg',
+            image: 'public/imgs/movie10.jpg',
             name: " "
         },
 
         {
-            image: '/imgs/movie11.jpg',
+            image: 'public/imgs/movie11.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie12.jpg',
+            image: 'public/imgs/movie12.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie13.jpg',
+            image: 'public/imgs/movie13.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie14.jpg',
+            image: 'public/imgs/movie14.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie15.jpg',
+            image: 'public/imgs/movie15.jpg',
             name: " "
         },
         {
-            image: '/imgs/movie16.jpg',
+            image: 'public/imgs/movie16.jpg',
             name: " "
         }
 
