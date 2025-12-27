@@ -13,7 +13,7 @@ const [pop, setpop] = useState({x:0 ,y:0})
         x: e.clientX,
         y: e.clientY, 
     })
-    }} className='h-screen w-screen bg-black bg-cover' style={{backgroundImage:'url("public/imgs/main2.png")'}}>
+    }} className='h-screen w-screen bg-black bg-cover' style={{backgroundImage:'url("/imgs/main2.png")'}}>
       <Section />
       <Hero />
       <Cursor x={pop.x} y={pop.y} />
